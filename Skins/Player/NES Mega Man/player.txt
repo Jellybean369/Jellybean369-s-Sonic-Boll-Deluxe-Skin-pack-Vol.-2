@@ -1,0 +1,127 @@
+[dosmm]
+name=NES Mega Man
+
+icon speed=24
+icon loop=yes
+animation speed=1.0
+center x=24
+center y=27
+box width=50
+box height=48
+
+pitch spindash=yes
+jump ball animation=no
+fire duration=2.75
+victory duration=50
+time until wait=300
+pipe squish=20
+pole center offset=8
+
+
+stand frames=2
+pose frames=1
+knock frames=2
+walk frames=5
+jump frames=1
+standshot frames=1
+walkshot frames=4
+jumpshot frames=1
+swim frames=4
+swimknock frames=2
+hang frames=6
+fire frames=4
+dash frames=6
+climbing frames=2
+climbon2 frames=2
+flagslide frames=1
+tailidle frames=6
+tailspin frames=4
+
+wait loop=4
+dead loop=4
+pose loop=2
+walk loop=2
+walkshot loop=1
+maxrun loop=2
+crouch loop=2
+lookup loop=2
+bonk loop=2
+springfall loop=1
+dash loop=3
+specfall loop=2
+brake loop=4
+fire loop=4
+
+stand speed=0.2
+wait speed=0.15
+springfall speed=0.5
+lookup speed=0.22
+crouch speed=0.22
+dead speed=0.2
+pose speed=0.20
+knock speed=0.09
+walk speed=0.12
+walkshot speed=0.12
+swim speed=0.22
+swimknock speed=0.9
+run speed=0.5
+maxrun speed=0.5
+spring speed=0.25
+jump speed=0.5
+bonk speed=0.25
+knock speed=0.25
+brake speed=0.3
+spring speed=0.4
+ball speed=0.5
+spindash speed=0.5
+specfall speed=0.4
+push speed=0.1
+hang speed=0.2
+fire speed=0.35
+dash speed=0.5
+climbing speed=0.09
+climbon2 speed=0.05
+piping speed=0.20
+tailidle speed=0.20
+tailspin speed=0.20
+
+stand frametimes=32,1
+wait frametimes=1,1,5,1.15,1.15,1.15,1.15,3
+maxrun frametimes=3,1,1,1,1
+pose frametimes=1.5,1,1,1,1
+push frametimes=2,1,1,2,1,1
+brake frametimes= 1,1,2,10
+lookup frametimes=1,32,1,1
+piping frametimes=1,1,1,1,1
+doorexit frametimes=5,1,1,1,1
+dead frametimes=1.35,4,1.35,1,1,1,1
+fire frametimes=1,1,3,1
+
+
+piping frames=2
+pipingup frames=2
+sidepiping frames=4
+doorenter frames=2
+doorexit frames=2
+
+piping speed=0.2
+pipingup speed=0.2
+sidepiping speed=0.12
+doorenter speed=0.2
+doorexit speed=0.2
+
+
+boll top=#5555FF
+boll mid=#4242C7
+boll bot=#2D2D8A
+
+[lang]
+winspecial=Mega Man got a Chaos Emerald
+allspecial=Mega Man got all Chaos Emeralds
+princess=our Princess
+savetext1=Peace is Paved
+savetext2=With Kingdom Saved
+savetext3=Hurrah to Mega Man
+savetext4=Our Only Hero 
+savetext5=This Ends Your Trip
+savetext6=Of a Long Friendship
