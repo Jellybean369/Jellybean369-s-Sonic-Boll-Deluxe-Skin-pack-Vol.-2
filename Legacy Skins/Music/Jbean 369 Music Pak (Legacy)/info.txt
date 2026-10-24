@@ -1,0 +1,4 @@
+[settings]
+hurry timer=60
+automatic fast music semitones=2
+hurry music=yes

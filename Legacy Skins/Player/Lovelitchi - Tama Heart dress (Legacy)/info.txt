@@ -1,0 +1,25 @@
+[settings]
+skin type=robo
+icon speed=8
+
+[short names]
+robo=Lovelin
+
+[long names]
+robo=Lovelitchi
+
+[offsets]
+robo0=[0,-5][0,-5][0,-5][0,-5][0,-5][0,-5]   [0,-5][0,-5][0,-5][0,-5][0,-5][0,-5]   [0,-5][0,-5][0,-5][0,-5][0,-5][0,-5]
+robo1=[0,-5][0,-5][7,-5][0,-5][0,-5][0,-5]   [0,-5][0,-5][7,-5][0,-5][0,-5][0,-5]   [0,-5][0,-5][7,-5][0,-5][0,-5][0,-5]
+robo2=[0,-5][0,-5][0,-5][0,-5][0,-5][0,-5]   [0,-5][0,-5][0,-5][0,-5][0,-5][0,-5]   [0,-5][0,-5][0,-5][0,-5][0,-5][0,-5]
+robo3=[0,-5][0,-5](xx)(xx)(xx)(xx)   [0,-5][0,-5][  ][0,-5][0,-5][0,-5]   [0,-5][0,-5][  ][0,-5][0,-5][0,-5]
+
+[lang]
+credits=Jellybean369
+princess=our Princess
+savetext1=Peace is Paved
+savetext2=With Kingdom Saved
+savetext3=Hurrah to %player%
+savetext4=Our Only Hero 
+savetext5=This Ends Your Trip
+savetext6=Of a Long Friendship
